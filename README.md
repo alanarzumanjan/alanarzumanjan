@@ -6,8 +6,6 @@
 🎯 **Purpose**  
 Motivated to gain practical experience and contribute to real-world development teams while mastering modern technologies and improving my language skills.
 
----
-
 🧰 **Skills**
 
 **Frontend**  
@@ -19,31 +17,13 @@ Motivated to gain practical experience and contribute to real-world development 
 **DevOps & Tools**  
 `Git`, `GitHub`, `Bitbucket`, `Docker`, `PgAdmin`, `DBeaver`, `VirtualBox (Ubuntu)`, `Postman`,`Swagger`
 
-**Other**  
-`Arch Linux user 🐧`, `Git Flow`, `SDLC principles`, `Database normalization`, `Makefile`,  `MVC`, 
-
----
+Arch Linux user 🐧
 
 📚 **Currently Learning**  
-- React  
-- Node.js  
-- MongoDB  
-- C# backend development
+`React`, `Node.js`, `MongoDB`,`C# backend development`
+
+🌐 Languages: English (improving daily), Latvian (intermediate)
+
+📫 **Email me at:** [alanarzumanjan@gmail.com](mailto:alanarzumanjan@gmail.com)
 
 ---
-
-🌐 **Languages**
-- Russian – fluent  
-- Latvian – intermediate  
-- English – basic (improving daily)
----
-
-📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanarzumanjan&show_icons=true&theme=tokyonight" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanarzumanjan&layout=compact&theme=tokyonight" width="35%">
-</p>
-
----
-
-🔥 _Powered by Arch Linux, Git commits, and eternal student hunger for knowledge_
