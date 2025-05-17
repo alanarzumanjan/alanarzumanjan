@@ -8,4 +8,4 @@ Hey, I'm Alan 👨‍💻. Programming student and Arch Linux user🐧. My `Purp
 
 **DevOps & Tools**(`Docker`, `PgAdmin`, `DBeaver`, `VirtualBox (Ubuntu)`, `Postman`,`Swagger`)
 
-📫 **Email:** [alanarzumanjan@gmail.coml](mailto:alanarzumanjan@gmail.com)
+📫 **Email:** [alanarzumanjan@gmail.com](mailto:alanarzumanjan@gmail.com)
