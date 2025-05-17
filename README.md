@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Alan 👨‍💻</h1>
+<h2 align="center">Hey, I'm Alan 👨‍💻</h2>
 <h3 align="center">Programming student from Latvia</h3>
 
 ---
@@ -8,20 +8,10 @@ Motivated to gain practical experience and contribute to real-world development 
 
 ---
 
-💼 **Education**  
-📍 _Victoria Vocational School, Latvia_  
-🗓️ _2022 – present (3 out of 4 years)_  
-**Major:** Programming Technician  
-- Web Application Development  
-- C, C++, C#, Python  
-- Databases: PostgreSQL
-
----
-
 🧰 **Skills**
 
 **Frontend**  
-`HTML`, `CSS`, `JavaScript`  
+`HTML`, `CSS`, `React`, `JavaScript` 
 
 **Languages & Databases**  
 `C`, `C++`, `C#`, `Python`, `PostgreSQL`, `MySQL`
@@ -30,12 +20,8 @@ Motivated to gain practical experience and contribute to real-world development 
 `Git`, `GitHub`, `Bitbucket`, `Docker`, `PgAdmin`, `DBeaver`, `VirtualBox (Ubuntu)`, `Postman`,`Swagger`
 
 **Other**  
-- Git Flow  
-- SDLC principles
-- Makefile
-- Database normalization
-- MVC
-- Arch Linux user 🐧  
+`Arch Linux user 🐧`, `Git Flow`, `SDLC principles`, `Database normalization`, `Makefile`,  `MVC`, 
+
 ---
 
 📚 **Currently Learning**  
@@ -46,36 +32,16 @@ Motivated to gain practical experience and contribute to real-world development 
 
 ---
 
-🔮 **Planning to Learn**  
-- Oracle DB  
-- Artificial Intelligence / ML  
-- AWS  
-- Android Studio  
-- Apache Kafka  
-- Kubernetes  
-- PHP
-- STEM
-- Microsoft Azure
-- Python Django
-
----
-
 🌐 **Languages**
 - Russian – fluent  
 - Latvian – intermediate  
 - English – basic (improving daily)
-
----
-
-📫 **How to reach me**  
-📧 [alanarzumanjan@gmail.com](mailto:alanarzumanjan@gmail.com)
-
 ---
 
 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanarzumanjan&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanarzumanjan&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=alanarzumanjan&show_icons=true&theme=tokyonight" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanarzumanjan&layout=compact&theme=tokyonight" width="35%">
 </p>
 
 ---
