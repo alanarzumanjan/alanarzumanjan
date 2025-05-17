@@ -1,29 +1,18 @@
-<h2 align="center">Hey, I'm Alan 👨‍💻</h2>
-<h3 align="center">Programming student from Latvia</h3>
+Hey, I'm Alan 👨‍💻. Programming student and Arch Linux user🐧. My `Purpose` is to gain practical experience and contribute to real-world development teams while mastering modern technologies and improving my language skills.
 
----
+🧰 **My Skills** 
 
-🎯 **Purpose**  
-Motivated to gain practical experience and contribute to real-world development teams while mastering modern technologies and improving my language skills.
+**Frontend**(`HTML`, `CSS`, `JavaScript`) 
 
-🧰 **Skills**
+**Languages & Databases**(`C`, `C++`, `C#`, `Python`, `PostgreSQL`, `MySQL`)
 
-**Frontend**  
-`HTML`, `CSS`, `React`, `JavaScript` 
-
-**Languages & Databases**  
-`C`, `C++`, `C#`, `Python`, `PostgreSQL`, `MySQL`
-
-**DevOps & Tools**  
-`Git`, `GitHub`, `Bitbucket`, `Docker`, `PgAdmin`, `DBeaver`, `VirtualBox (Ubuntu)`, `Postman`,`Swagger`
-
-Arch Linux user 🐧
+**DevOps & Tools**(`Docker`, `PgAdmin`, `DBeaver`, `VirtualBox (Ubuntu)`, `Postman`,`Swagger`)
 
 📚 **Currently Learning**  
 `React`, `Node.js`, `MongoDB`,`C# backend development`
 
 🌐 Languages: English (improving daily), Latvian (intermediate)
 
-📫 **Email me at:** [alanarzumanjan@gmail.com](mailto:alanarzumanjan@gmail.com)
+📫 **Email:** [alanarzumanjan@gmail.coml](mailto:alanarzumanjan@gmail.com)
 
 ---
