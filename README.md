@@ -2,7 +2,7 @@ Hey, I'm Alan 👨‍💻. Programming student and Arch Linux user🐧. My `Purp
 
 🧰 **My Skills** 
 
-**Frontend**(`HTML`, `CSS`, `JavaScript`) 
+**Frontend**(`HTML`, `CSS`, `JavaScript`, `React`) 
 
 **Languages & Databases**(`C`, `C++`, `C#`, `Python`, `PostgreSQL`, `MySQL`)
 
