@@ -7,5 +7,3 @@ Hey, I'm Alan 👨‍💻. Programming student and Arch Linux user🐧. My `Purp
 **Languages & Databases**(`C`, `C++`, `C#`, `Python`, `PostgreSQL`, `MySQL`, `MariaDB`)
 
 **DevOps & Tools**(`Docker`, `PgAdmin`, `DBeaver`, `VirtualBox (Ubuntu)`, `Postman`,`Swagger`)
-
-📫 **Email:** [alanarzumanjan@gmail.com](mailto:alanarzumanjan@gmail.com)
