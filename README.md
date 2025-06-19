@@ -1,4 +1,4 @@
-Hey, I'm Alan 👨‍💻. Programming student and Arch Linux user🐧. My `Purpose` is to gain practical experience and contribute to real-world development teams while mastering modern technologies and improving my language skills.
+Hey, I'm Alan 👨‍💻. Programming student and Arch Linux user🐧. My `Purpose` is to gain practical experience and contribute to real-world development teams while mastering modern technologies and improving my language skills, and work for the benefit of humanity.
 
 🧰 **My Skills** 
 
