@@ -6,6 +6,6 @@ Hey, I'm Alan 👨‍💻. Programming student and Arch Linux user🐧. My `Purp
 
 **Languages & Databases**(`C`, `C++`, `C#`, `Python`, `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite`)
 
-**DevOps & Tools**(`Docker`, `PgAdmin`, `DBeaver`, `VirtualBox (Ubuntu)`, `Postman`, `Swagger`)
+**DevOps & Tools**(`Docker`, `PgAdmin`, `DBeaver`, `VirtualBox (Ubuntu)`, `Postman`, `Swagger`, `Cloudflare`)
 
 **Visit my website to learn more about me: [Portfolio](https://alanwebportfolio.netlify.app)**
