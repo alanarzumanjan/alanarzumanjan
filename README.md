@@ -4,8 +4,8 @@ Hey, I'm Alan 👨‍💻. Programming student and Arch Linux user🐧. My `Purp
 
 **Frontend**(`HTML`, `CSS`, `Type+Java Script`, `React`) 
 
-**Languages & Databases**(`C`, `C++`, `C#`, `Python`, `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite`)
+**Languages & Databases**(`C`, `C++`, `C#(.NET)`, `Python`, `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite`)
 
-**DevOps & Tools**(`Docker`, `PgAdmin`, `DBeaver`, `VirtualBox (Ubuntu)`, `Postman`, `Swagger`, `Cloudflare`)
+**DevOps & Tools**(`Docker`, `PgAdmin`, `DBeaver`, `Arduino`, `VirtualBox (Ubuntu)`, `Postman`, `Swagger`, `Cloudflare`)
 
 **Visit my website to learn more about me: [Portfolio](https://alanwebportfolio.netlify.app)**
