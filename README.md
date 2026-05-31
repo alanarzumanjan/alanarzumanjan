@@ -6,6 +6,6 @@ Hey, I'm Alan 🌱. Growth-focused developer. My `Purpose` is to gain practical 
 
 **Languages & Databases**(`C`, `C++`, `C#(.NET)`, `Python`, `PostgreSQL`, `MySQL`, `Redis`, `MongoDB`)
 
-**DevOps & Tools**(`Docker`, `PgAdmin`, `DBeaver`, `Arduino`, `VirtualBox (Ubuntu)`, `Postman`, `Swagger`, `Cloudflare`)
+**DevOps & Tools**(`Docker`, `Cloudflare`, `VirtualBox (Ubuntu)`, `DBeaver`, `PgAdmin`, `Postman`, `Swagger`, `Arduino`)
 
 **Visit my website to learn more about me: [Portfolio](https://alanwebportfolio.netlify.app)**
