@@ -4,7 +4,7 @@ Hey, I'm Alan 👨‍💻. Programming student and Arch Linux user🐧. My `Purp
 
 **Frontend**(`HTML`, `CSS`, `Type+Java Script`, `React`) 
 
-**Languages & Databases**(`C`, `C++`, `C#(.NET)`, `Python`, `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite`)
+**Languages & Databases**(`C`, `C++`, `C#(.NET)`, `Python`, `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`)
 
 **DevOps & Tools**(`Docker`, `PgAdmin`, `DBeaver`, `Arduino`, `VirtualBox (Ubuntu)`, `Postman`, `Swagger`, `Cloudflare`)
 
