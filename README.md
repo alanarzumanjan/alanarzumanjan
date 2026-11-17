@@ -8,4 +8,4 @@ Hey, I'm Alan 🌱. Growth-focused developer. My `Purpose` is to gain practical 
 
 **DevOps & Tools**(`Docker`, `Cloudflare`, `VirtualBox (Ubuntu)`, `DBeaver`, `PgAdmin`, `Postman`, `Swagger`, `Arduino`, `NeoVim`)
 
-**Visit my website to learn more about me: [Portfolio](https://alanwebportfolio.netlify.app)**
+**Visit my website to learn more about me: [Portfolio](https://alanwebportfolio.netlify.app)** (Not active projects, only information about experience)
